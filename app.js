@@ -1,5 +1,6 @@
-const yourDate = new Date("2022-11-1T02:10:26"),
+const yourDate = new Date("2022-11-1"),
     music = ["ido", "noinaycoanh", "nguoiamphu"];
+console.log(yourDate);
 
 document.addEventListener(
     "DOMContentLoaded",
